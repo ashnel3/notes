@@ -1,0 +1,13 @@
+* text=auto
+
+# Document
+*.md                               text
+*.txt                              text
+
+# Config
+*.json                             text
+*.yaml                             text
+*.yml                              text
+
+# Shell
+*.sh                               text eol=lf

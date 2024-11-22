@@ -1,0 +1,9 @@
+node_modules/
+
+# obsidian
+.obsidian/
+
+# lockfiles
+*-lock.json
+*-lock.yaml
+*.lock
