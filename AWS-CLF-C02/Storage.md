@@ -1,6 +1,6 @@
-## S3
+## S3 ^s3
 
-### S3-Tiers
+### Tiers ^s3-tiers
 
 - Standard
   > designed for frequent access
@@ -9,8 +9,8 @@
   > Similar to standard
   > Lower storage prices w/ higher retrieval
 - Standard One-Zone IA
-  > single AZ
   > Lower price than Standard-IA
+  > Single AZ
 - Intelligent Tiering
   > Automatic tier selection for dynamic access patterns
 - Glacier Instant Revival
