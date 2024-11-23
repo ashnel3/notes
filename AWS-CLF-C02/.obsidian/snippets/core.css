@@ -1,0 +1,11 @@
+:root {
+  --rounded-sm: 2px;
+  --rounded-md: 8px;
+}
+
+.highlight {
+  border-radius: var(--rounded-sm);
+  padding: 0 0.5rem;
+  background-color: yellow;
+  color: #000;
+}

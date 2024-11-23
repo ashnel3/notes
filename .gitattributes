@@ -9,5 +9,8 @@
 *.yaml                             text
 *.yml                              text
 
+# Style
+*.css                              text
+
 # Shell
 *.sh                               text eol=lf
