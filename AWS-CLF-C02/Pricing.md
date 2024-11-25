@@ -35,7 +35,7 @@ Where you pay your AWS bills, has a ton of features related to monitoring & cont
 
 - Compare current months usage w/ last for easy forecasting
 - View current send by service
-- View [[Pricing#Free-Tier|Free-Tier]] usage by service
+- View [[Pricing#Free-Tier pricing-free-tier|Free-Tier]] usage by service
 - Access Cost-Explorer & budget creation
 - Access & manage savings-plans
 - Publish AWS Cost & Usage Reports (CUR) ^aws-cur

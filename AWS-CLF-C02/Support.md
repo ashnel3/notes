@@ -9,8 +9,8 @@
   - Client-Side diagnostic tools
   - Building block architecture support
 - Business ^support-business
+  - <b class="highlight">! Cheapest 24/7 Cloud support access</b>
   - All [[List of Services#^aws-trusted-advisor|Trusted Advisor]] checks
-  - Use-Case guidance
   - Limited Third-Party software support _(common OS's & components)_.
 - Enterprise On-Ramp ^support-enterprise-on-ramp
   - <b class="highlight">! ≈ 30m response time for business-critical issues</b>
@@ -19,6 +19,10 @@
 - Enterprise ^support-enterprise
   - <b class="highlight">! ≈ 15m response time for business-critical issues</b>
   - A Designated technical account manager to provide proactive guidance and coordinate access to programs & experts.
+
+## Partner Network (APN) ^apn
+
+A global community of AWS experts that leverage AWS to build solutions and services for customers.
 
 ## Technical Account Manager (TAM) ^aws-tam
 
@@ -29,29 +33,29 @@ The Enterprise & Enterprise On-Ramp support plans include access to a technical 
 At a high level the AWS CAF organizes guidance into siz areas of focus called perspectives.
 
 - Business
-  > Common roles include: Business Managers, Financier, Budgeters & Stakeholders
-  >
   > The business perspective ensures IT aligns w/ business needs and that IT investments link to key results.
+  >
+  > Common roles include: Business Managers, Financier, Budgeters & Stakeholders
 - People
-  > Common roles include: Managers, HR, Staffing
-  >
   > The people perspective supports development of an organization wide change management strategy for cloud adoption.
+  >
+  > Common roles include: Managers, HR, Staffing
 - Governance
+  > The Governance perspective ensures IT aligns w/ governance risk management requirements.
+  >
   > Common roles include: CIO's, Business analysts
-  >
-  > The Governance perspective ensures IT aligns w/ governance requirements.
 - Platform
-  > Common roles include: CTO's, IT Managers, Solutions Architects
-  >
   > The platform perspective includes the principles & patterns for implementing new solutions and migration from on-prem to the cloud.
+  >
+  > Common roles include: CTO's, IT Managers, Solutions Architects
 - Security
-  > Common roles include: CISO's, Security Managers
-  >
   > The security perspective ensures the organization meets objectives for visibility, auditability & agility.
-- Operations
-  > Common roles include: IT Operations managers, IT Support
   >
-  > The operations perspective helps you to use and operate cloud services to the level agreed with business stakeholders.
+  > Common roles include: CISO's, Security Managers
+- Operations
+  > The operations perspective helps you to use and operate cloud services to the performance & capacity agreed with business stakeholders.
+  >
+  > Common roles include: IT Operations managers, IT Support
 
 ## Migration Strategies
 

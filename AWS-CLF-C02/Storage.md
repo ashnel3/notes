@@ -20,3 +20,21 @@
 - Glacier Deep Archive
   > Retrieval in: 12 - 28hrs
 - Outposts
+
+## SnowBall ^aws-snowball
+
+- Snowcone _(Thin-Client sized)_
+  - 2 CPUs, 4GB Memory
+  - Up-To 14TB Storage
+- Snowball _(Desktop sized)_
+  - SnowBall-Edge **(Storage optimized)**
+    - 40 vCPUs, 80GiB Memory
+    - 80TB HDD + 1TB SDD
+    - Equivalent w/ sbe1 instances
+  - SnowBall-Edge **(Compute optimized)**
+    - 104 vCPUs, 416GiB Memory
+    - 80TB HDD + 28TB NVME SSD
+    - Optional NVidia Tesla v100 GPU
+    - Equivalent w/ sbe-c & sbe-g instances
+- Snowmobile _(Semi-Truck sized)_
+  - Up-To 100PiB per snowmobile.

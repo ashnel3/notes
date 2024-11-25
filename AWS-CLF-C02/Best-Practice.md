@@ -1,4 +1,5 @@
 ## Well-Architected Framework
+
 > See: [Well-Architected Framework](https://docs.aws.amazon.com/wellarchitected/latest/framework/welcome.html)
 
 The AWS well-architected framework breaks down best-practices into six pillars.
@@ -14,7 +15,7 @@ The AWS well-architected framework breaks down best-practices into six pillars.
 - Reliability
   > The ability to recover quickly & mitigate issues with failure resistant design.
   >
-  > Design principles include: testing recovery, automated scaling
+  > Design principles include: testing recovery, & [[List of Terms#^scalability|scalability]]
 - Performance & Efficiency
   > The ability to use dynamic compute resources effectively.
   >
@@ -30,11 +31,9 @@ The AWS well-architected framework breaks down best-practices into six pillars.
 
 ## Cloud Computing Advantages
 
-- Trade upfront cost for variable expense
-- Benefit from economies of scale
-  > AWS is the largest cloud computing company benefiting from massive economies of scale that are unobtainable for most companies.
-- Avoid guessing capacity
-  > You can avoid paying for unused infrastructure w/ cloud computing. Instead of paying for a limited capacity you pay only for whats used.
+- [[Pricing#^pricing-concepts-on-demand|On-Demand pricing]]
+- Massive economies of scale
+- [[List of Terms#^scalability|Stop guessing capacity]]
 - Increase speed & agility
-- Avoid expensive data-center maintenance
-- Utilize AWS's Global infrastructure
+- Realize cost savings
+- [[List of Terms#Regions|Go global in minutes]]
